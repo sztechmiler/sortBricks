@@ -8,7 +8,7 @@
             "name": "Python: Main",
             "type": "python",
             "request": "launch",
-            "program": "ImageCategorization\\src\\main.py",
+            "program": "ImageCategorization\\src\\model.py",
             "console": "integratedTerminal",
             "justMyCode": true
         }
